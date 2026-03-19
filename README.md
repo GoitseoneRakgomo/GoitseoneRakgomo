@@ -119,35 +119,35 @@ Building end‑to‑end applications including frontend, backend, APIs, and clou
 
   <h3>💻 Profile Stats</h3>
   <a href="https://github.com/ily6ix/github-readme-stats">
-    <img alt="Goitseone's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ily6ix&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4cb5f5&icon_color=F8D866" height="192px"/>
+    <img alt="Goitseone's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=goitseonerakgomo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4cb5f5&icon_color=F8D866" height="192px"/>
   </a>
-  <a href="https://github.com/ily6ix/github-readme-stats">
-    <img alt="Goitseone's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ily6ix&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4cb5f5&icon_color=F8D866" height="192px"/>
+  <a href="https://github.com/goitseonerakgomo/github-readme-stats">
+    <img alt="Goitseone's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goitseonerakgomo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4cb5f5&icon_color=F8D866" height="192px"/>
   </a>
   <br/>
 
-  <a href="https://github.com/ily6ix/github-readme-streak-stats">
+  <a href="https://github.com/goitseonerakgomo/github-readme-streak-stats">
     <img alt="Streak" src="https://streak-stats.demolab.com?user=ily6ix&theme=gotham&hide_border=true&date_format=M%20j%5B,%20Y%5D" height="170px"/>
   </a>
 
   <h3>📈 Activity Graph</h3>
-  <a href="https://github.com/ily6ix/github-readme-activity-graph">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ily6ix&bg_color=1F222E&color=F8D866&line=4cb5f5&point=FFFFFF&hide_border=true" />
+  <a href="https://github.com/goitseonerakgomo/github-readme-activity-graph">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=goitseonerakgomo&bg_color=1F222E&color=F8D866&line=4cb5f5&point=FFFFFF&hide_border=true" />
   </a>
 
   <h3>⏱️ Wakatime (optional)</h3>
   <!-- Replace the username if you have a Wakatime account -->
-  <a href="https://wakatime.com/@ily6ix">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ily6ix&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" width="58%" alt="Wakatime stats"/>
+  <a href="https://wakatime.com/@goitseonerakgomo">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=goitseonerakgomo&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" width="58%" alt="Wakatime stats"/>
   </a>
 
   <h3>🏆 Trophies</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ily6ix&theme=onestar&no-frame=true&column=6" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=goitseonerakgomo&theme=onestar&no-frame=true&column=6" alt="GitHub Trophies"/>
   </a>
 
   <h3>⚡ Recent Activity</h3>
-  <!-- Optionally use https://github.com/ily6ix/github-activity-readme -->
+  <!-- Optionally use https://github.com/goitseonerakgomo/github-activity-readme -->
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
 </details>
@@ -155,16 +155,16 @@ Building end‑to‑end applications including frontend, backend, APIs, and clou
 <br/>
 
 <p align="center">
-  <a href="https://github.com/ily6ix?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ily6ix&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="GitHub Stats"/>
+  <a href="https://github.com/goitseonerakgomo?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=goitseonerakgomo&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="GitHub Stats"/>
   </a>
 
 </p>
 
 <!-- Extra Activity Graph -->
 <p align="center">
-    <a href="https://wakatime.com/@ily6ix">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ily6ix&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://wakatime.com/@goitseonerakgomo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=goitseonerakgomo&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 
