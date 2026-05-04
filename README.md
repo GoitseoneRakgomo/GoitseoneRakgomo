@@ -21,9 +21,6 @@
 
 ## 💼 Current Roles
 
-### Graduate: Products (Intern)  
-**Mustek Ltd — ISG Department**  
-Supporting product development and system enablement with a focus on technical analysis and innovative solution delivery.
 
 ### Full Stack Developer  
 **Capaciti UVU Africa**  
