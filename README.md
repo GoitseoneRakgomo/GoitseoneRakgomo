@@ -6,7 +6,7 @@
 
 
 <h1 align="center">👋 Hi, I'm Goitseone Rakgomo</h1>
-<h3 align="center">Software Engineer · AI/ML Engineer · Computer Science Graduate</h3>
+<h3 align="center">Software Engineer · Computer Science Graduate</h3>
 <h4 align="center">
   Passionate about building <b>secure, scalable, user‑centric software</b> with a focus on 
   <b>health‑tech, cloud computing, and community‑driven systems</b>. Exploring the intersection of 
@@ -15,7 +15,7 @@
 <br/>
 ## 💼 Current Roles
 
-### Full Stack Developer  
+Full Stack Developer  
 **Capaciti UVU Africa**  
 Building end‑to‑end applications including frontend, backend, APIs, and cloud deployment.
 
