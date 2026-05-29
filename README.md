@@ -12,14 +12,8 @@
   <b>health‑tech, cloud computing, and community‑driven systems</b>. Exploring the intersection of 
   <b>AI and healthcare</b> to develop impactful, innovative solutions.
 </h4>
-
-<!-- Typing SVG banners -->
-![Animated Introduction](chat-animation.svg)
-
 <br/>
-
 ## 💼 Current Roles
-
 
 ### Full Stack Developer  
 **Capaciti UVU Africa**  
