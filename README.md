@@ -13,13 +13,6 @@
   <b>AI and healthcare</b> to develop impactful, innovative solutions.
 </h4>
 <br/>
-## 💼 Current Roles
-
-Full Stack Developer  
-**Capaciti UVU Africa**  
-Building end‑to‑end applications including frontend, backend, APIs, and cloud deployment.
-
-<br/>
 
 ## Tools
 
